@@ -11,8 +11,6 @@
 <br>
 <br>
 
-### Un scan, et la personne qui trouve votre Keyzig peut vous contacter, sans connaître votre identité.
-
 Keyzig fait des porte-clés et des tags NFC / QR.<br>
 Le jour où vous perdez vos clés, celui qui les trouve n’a qu’à scanner le tag&nbsp;: vous êtes prévenu aussitôt.
 
