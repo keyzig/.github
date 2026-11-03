@@ -23,9 +23,9 @@ Keyzig crée ce lien en protégeant votre anonymat.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/steps-v4-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/steps-v4-light.png">
-  <img src="assets/steps-v4-light.png" alt="Étape 1, oublié sur un banc : une plaque qu’on oublie sur ses clés et son sac, jusqu’au jour où elle sert. Étape 2, scanné, sans appli : un scan, pas d’application à installer, pas de compte à créer. Étape 3, un message arrive : email, SMS et WhatsApp selon vos préférences. Vous récupérez votre objet." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/steps-v5-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/steps-v5-light.png">
+  <img src="assets/steps-v5-light.png" alt="Étape 1, oublié sur un banc : une plaque qu’on oublie sur ses clés et son sac, jusqu’au jour où elle sert. Étape 2, scanné, sans appli : un scan, pas d’application à installer, pas de compte à créer. Étape 3, un message arrive : email, SMS et WhatsApp selon vos préférences. Vous récupérez votre objet." width="100%">
 </picture>
 
 <br>
