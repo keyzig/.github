@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-    <img src="assets/banner-light.png" alt="keyzig · Porte-clés et tags NFC / QR · Retrouvez vos objets." width="100%">
+    <img src="assets/banner-light.png" alt="keyzig · Retrouvez vos clés. Le porte-clés Keyzig : un scan, un message arrive, retrouvé !" width="100%">
   </picture>
 </a>
 
