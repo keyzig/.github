@@ -11,8 +11,10 @@
 <br>
 <br>
 
-Keyzig fait des porte-clés à QR code.<br>
-Le jour où vous perdez vos clés, celui qui les trouve n’a qu’à scanner le QR code&nbsp;: vous êtes prévenu aussitôt.
+### La plupart des objets perdus sont retrouvés. Peu reviennent.
+
+Écrire ses coordonnées n’est pas toujours une bonne idée.<br>
+Keyzig crée ce lien en protégeant votre anonymat.
 
 <br>
 
@@ -21,15 +23,17 @@ Le jour où vous perdez vos clés, celui qui les trouve n’a qu’à scanner le
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/steps-v3-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/steps-v3-light.png">
-  <img src="assets/steps-v3-light.png" alt="Étape 1, le tag : accrochez votre Keyzig à vos clés, à votre sac ou à ce qui compte pour vous. Étape 2, le scan : la personne qui le trouve scanne le QR code, sans appli ni compte. Étape 3, la notification : vous êtes prévenu par SMS, WhatsApp ou e-mail, sans dévoiler votre identité." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/steps-v4-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/steps-v4-light.png">
+  <img src="assets/steps-v4-light.png" alt="Étape 1, oublié sur un banc : une plaque qu’on oublie sur ses clés et son sac, jusqu’au jour où elle sert. Étape 2, scanné, sans appli : un scan, pas d’application à installer, pas de compte à créer. Étape 3, un message arrive : email, SMS et WhatsApp selon vos préférences. Vous récupérez votre objet." width="100%">
 </picture>
 
 <br>
 <br>
 
 ## Mettez toutes les chances de votre côté.
+
+Service compris à vie, sans abonnement.
 
 <br>
 
@@ -48,6 +52,6 @@ Le jour où vous perdez vos clés, celui qui les trouve n’a qu’à scanner le
 
 <br>
 
-<sub><i>Lost something? Keyzig helps it find its way back to you.</i></sub>
+<sub><i>One tag. Endless ways to stay in touch.</i></sub>
 
 </div>
