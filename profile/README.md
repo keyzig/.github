@@ -2,9 +2,9 @@
 
 <a href="https://keyzig.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-    <img src="assets/banner-light.png" alt="keyzig · Retrouvez vos clés. Le porte-clés Keyzig : un scan, un message arrive, retrouvé !" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-v2-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-v2-light.png">
+    <img src="assets/banner-v2-light.png" alt="keyzig · Retrouvez vos clés. Le porte-clés Keyzig : un scan, un message arrive, retrouvé !" width="100%">
   </picture>
 </a>
 
@@ -21,9 +21,9 @@ Le jour où vous perdez vos clés, celui qui les trouve n’a qu’à scanner le
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/steps-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/steps-light.png">
-  <img src="assets/steps-light.png" alt="Étape 1, le tag : accrochez votre Keyzig à vos clés, à votre sac ou à ce qui compte pour vous. Étape 2, le scan : la personne qui le trouve scanne le tag, sans appli ni compte. Étape 3, la notification : vous êtes prévenu par SMS, WhatsApp ou e-mail, sans dévoiler votre identité." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/steps-v2-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/steps-v2-light.png">
+  <img src="assets/steps-v2-light.png" alt="Étape 1, le tag : accrochez votre Keyzig à vos clés, à votre sac ou à ce qui compte pour vous. Étape 2, le scan : la personne qui le trouve scanne le tag, sans appli ni compte. Étape 3, la notification : vous êtes prévenu par SMS, WhatsApp ou e-mail, sans dévoiler votre identité." width="100%">
 </picture>
 
 <br>
